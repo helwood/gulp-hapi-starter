@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Starter template for local server and compiling scss and js",
   "main": "index.js",
+  "repository": "https://github.com/helwood/gulp-hapi-starter.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
