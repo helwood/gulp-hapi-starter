@@ -10,3 +10,9 @@ $ cd gulp-hapi-starter
 $ npm install
 $ gulp
 ```
+
+Verify the deployment by navigating to your server address in your preferred browser.
+
+```sh
+localhost:3000
+```
