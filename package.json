@@ -1,0 +1,28 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Starter template for local server and compiling scss and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heather Elwood",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-google": "^0.11.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^5.0.0",
+    "hapi": "^17.7.0"
+  },
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "inert": "^5.1.2",
+    "path": "^0.12.7"
+  }
+}

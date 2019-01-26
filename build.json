@@ -1,0 +1,19 @@
+{
+    "srcDir": "src",
+    "jsDir": "src/js",
+    "scssDir": "src/scss",
+    "jsOutputDir": "dist/js",
+    "cssOutputDir": "dist/css",
+    "build": [
+        {
+            "name": "starter",
+            "title": "Starter",
+            "js": [
+                "src/js/main.js"
+            ],
+            "scss": [
+                "src/scss/build.scss"
+            ]
+        }
+    ]
+}

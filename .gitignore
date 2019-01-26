@@ -1,0 +1,8 @@
+.git/
+node_modules/
+.cache/
+*.log
+*.bak.js
+.DS_STORE
+dump.rdb
+dist/
